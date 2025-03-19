@@ -7,5 +7,5 @@ LEVEL 1
 utilize el comando ls
 
 encontre la clave
-
+aswuhsjatg
 3. 
